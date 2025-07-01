@@ -1,4 +1,4 @@
-# Chrome Dino Bot (Computer Vision AI)
+# Dino Bot (Computer Vision AI)
 
 This project is an AI bot designed to play the Chrome Dino Game automatically using computer vision techniques. It captures a specific region of the screen where the game is running, processes the image to detect obstacles (cacti and birds), and simulates pressing the spacebar to make the dinosaur jump over them.
 
